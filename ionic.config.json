@@ -1,0 +1,7 @@
+{
+  "name": "ionic-debug-screen-orientation",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
